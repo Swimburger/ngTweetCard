@@ -23,7 +23,7 @@ Include the Twitter Widgets library, and include the directive module.
 
 ```html
 <script src="http://platform.twitter.com/widgets.js"></script>
-<script src="bower/ngTweetCard/dist/ngTweetCard.min.js"></script>
+<script src="bower/ng-tweet-card/dist/ngTweetCard.min.js"></script>
 ```
 
 Now you can create a Twitter card with the following markup.
