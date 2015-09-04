@@ -6,13 +6,13 @@ Simple directive to create a Tweet card with the Twitter widgets api.
 Install with bower
 
 ```cmd
-bower install ngTweetCard --save
+bower install ng-tweet-card --save
 ```
 
 or npm
 
 ```cmd
-npm install ngTweetCard --save
+npm install ng-tweet-card --save
 ```
 or download manually
 
