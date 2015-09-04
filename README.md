@@ -25,7 +25,7 @@ Include the Twitter Widgets library, and include the directive module.
 <script src="http://platform.twitter.com/widgets.js"></script>
 <script src="bower/ng-tweet-card/dist/ngTweetCard.min.js"></script>
 ```
-
+Include 'ng-tweet-card' in your dependencies.
 Now you can create a Twitter card with the following markup.
 
 ```html

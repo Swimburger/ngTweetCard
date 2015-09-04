@@ -8,7 +8,7 @@
  * @description
  * # tweetCard
  */
-angular.module('ngTweetCard')
+angular.module('ng-tweet-card')
   .directive('tweetCard',function () {
     return {
       transclude:true,
