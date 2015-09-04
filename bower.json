@@ -1,0 +1,21 @@
+{
+  "name": "ngTweetCard",
+  "version": "0.1.0",
+  "authors": [
+    {
+      "name": "Niels Swimberghe",
+      "email": "nielsswimberghe@gmail.com"
+    }
+  ],
+  "main": ["dist/ngTweetCard.js"],
+  "ignore": [
+    "src",
+    "gulpfile.js",
+    "**/.*"
+  ],
+  "dependencies": {
+    "angular": ">=1.2.0"
+    },
+  "devDependencies": {
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "ngTweetCard",
+  "version": "0.1.0",
+  "author": {
+    "name": "Niels Swimberghe",
+    "email": "nielsswimberghe@gmail.com"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "chai-jquery": "^1.2.3",
+    "gulp": "^3.8.7",
+    "gulp-concat": "^2.3.4",
+    "gulp-jshint": "^1.8.4",
+    "gulp-plumber": "^0.6.6",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^0.3.1",
+    "jshint-stylish": "^0.4.0",
+    "run-sequence": "^1.0.2",
+    "sinon": "^1.10.3",
+    "sinon-chai": "^2.5.0"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
