@@ -1,6 +1,9 @@
 {
   "name": "ng-tweet-card",
   "version": "0.1.0",
+  "keywords": [
+    "angularjs","angular","twitter","directive","widgets"
+  ],
   "author": {
     "name": "Niels Swimberghe",
     "email": "nielsswimberghe@gmail.com"
