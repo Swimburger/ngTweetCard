@@ -4,6 +4,7 @@
   "keywords": [
     "angularjs","angular","twitter","directive","widgets"
   ],
+  "license" : "MIT",
   "author": {
     "name": "Niels Swimberghe",
     "email": "nielsswimberghe@gmail.com"
